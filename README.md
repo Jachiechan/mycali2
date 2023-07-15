@@ -6,6 +6,7 @@ Welcome to MyCalI2! This is a calculator web application built with HTML, CSS, J
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division
 - Clear button to reset the calculator
+- Comms and Periods in En-US
   
 
 ## Demo
