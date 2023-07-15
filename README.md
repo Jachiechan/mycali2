@@ -1,6 +1,6 @@
 # MyCalI2
 
-Welcome to MyCalI2! This is a calculator web application built with HTML, CSS, and JavaScript.
+Welcome to MyCalI2! This is a calculator web application built with HTML, CSS, JavaScript and React.
 
 ## Features
 
@@ -34,7 +34,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
 
-- Mention any external libraries, resources, or tutorials you used in this project.
 
