@@ -10,7 +10,7 @@ Welcome to MyCalI2! This is a calculator web application built with HTML, CSS, J
 
 ## Demo
 
-You can see a live demo of MyCalI2 [here](https://example.com).
+You can see a live demo of MyCalI2 [here](https://example.com](https://jachiechan.github.io/mycali2/)).
 
 ## Getting Started
 
