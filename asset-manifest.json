@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Jachiechan/mycali2/static/css/main.7b21dc90.css",
-    "main.js": "/Jachiechan/mycali2/static/js/main.07df5e63.js",
-    "static/media/board-mathematics-math-fourier.jpg": "/Jachiechan/mycali2/static/media/board-mathematics-math-fourier.b749575a3e312f6d0793.jpg",
-    "index.html": "/Jachiechan/mycali2/index.html",
-    "main.7b21dc90.css.map": "/Jachiechan/mycali2/static/css/main.7b21dc90.css.map",
-    "main.07df5e63.js.map": "/Jachiechan/mycali2/static/js/main.07df5e63.js.map"
+    "main.css": "/mycali2/static/css/main.960df255.css",
+    "main.js": "/mycali2/static/js/main.b4ae746b.js",
+    "static/media/board-mathematics-math-fourier.jpg": "/mycali2/static/media/board-mathematics-math-fourier.b749575a3e312f6d0793.jpg",
+    "index.html": "/mycali2/index.html",
+    "main.960df255.css.map": "/mycali2/static/css/main.960df255.css.map",
+    "main.b4ae746b.js.map": "/mycali2/static/js/main.b4ae746b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b21dc90.css",
-    "static/js/main.07df5e63.js"
+    "static/css/main.960df255.css",
+    "static/js/main.b4ae746b.js"
   ]
 }
